@@ -1,0 +1,9 @@
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
+Library/
+ProjectSettings/
+Temp/
+Packages/
